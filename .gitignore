@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+TaskTimer.db
+desktop.ini
